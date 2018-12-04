@@ -23,7 +23,7 @@
 	<key>DVTConsoleExectuableOutputTextFont</key>
 	<string>Menlo-Regular - 11.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
-	<string>0 0.168627 0.211765 1</string>
+	<string>0.0562328 0.0935821 0.105419 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
 	<string>0.930688 0.788253 0.559706 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
@@ -68,12 +68,26 @@
 	<string>0.576471 0.631373 0.631373 1</string>
 	<key>DVTMarkupTextStrongFont</key>
 	<string>.SFNSText-Bold - 10.0</string>
+	<key>DVTScrollbarMarkerAnalyzerColor</key>
+	<string>0.403922 0.372549 1 1</string>
+	<key>DVTScrollbarMarkerBreakpointColor</key>
+	<string>0.290196 0.290196 0.968627 1</string>
+	<key>DVTScrollbarMarkerDiffColor</key>
+	<string>0.556863 0.556863 0.556863 1</string>
+	<key>DVTScrollbarMarkerDiffConflictColor</key>
+	<string>0.968627 0.290196 0.290196 1</string>
+	<key>DVTScrollbarMarkerErrorColor</key>
+	<string>0.968627 0.290196 0.290196 1</string>
+	<key>DVTScrollbarMarkerRuntimeIssueColor</key>
+	<string>0.643137 0.509804 1 1</string>
+	<key>DVTScrollbarMarkerWarningColor</key>
+	<string>0.937255 0.717647 0.34902 1</string>
 	<key>DVTSourceTextBackground</key>
-	<string>0 0.168627 0.211765 1</string>
+	<string>0.0124575 0.118976 0.147293 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
-	<string>0.00686275 0.179412 0.22353 1</string>
+	<string>0.0160411 0.137647 0.1718 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
 	<string>0.933333 0.909804 0.835294 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
@@ -101,7 +115,7 @@
 		<key>xcode.syntax.identifier.constant.system</key>
 		<string>0.594699 0.490602 0.220254 1</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>0.344306 0.741023 0.192719 1</string>
+		<string>0.232231 0.749424 0.146145 1</string>
 		<key>xcode.syntax.identifier.function.system</key>
 		<string>0.0847297 0.659701 0.59065 1</string>
 		<key>xcode.syntax.identifier.macro</key>
@@ -113,13 +127,13 @@
 		<key>xcode.syntax.identifier.type.system</key>
 		<string>0.769868 0.765767 0.292824 1</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>0.163583 0.676051 0.772325 1</string>
+		<string>0.0895208 0.567871 0.650136 1</string>
 		<key>xcode.syntax.identifier.variable.system</key>
 		<string>0.941329 0.324216 0.656842 1</string>
 		<key>xcode.syntax.keyword</key>
-		<string>0.111326 0.587125 1 1</string>
+		<string>0 0.556349 0.926488 1</string>
 		<key>xcode.syntax.number</key>
-		<string>0.184273 0.668688 0.0567114 1</string>
+		<string>0 0.711622 0 1</string>
 		<key>xcode.syntax.plain</key>
 		<string>0.572914 0.588647 0.593506 1</string>
 		<key>xcode.syntax.preprocessor</key>
